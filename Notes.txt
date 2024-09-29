@@ -1,0 +1,7 @@
+
+https://snyk.io/advisor/npm-package/angular-in-memory-web-api/functions/angular-in-memory-web-api.HttpClientInMemoryWebApiModule.forRoot
+
+https://medium.com/@chandantechie/angular-interact-with-an-in-memory-web-api-342f9f17fbd6
+
+https://stackoverflow.com/questions/77469629/issues-with-integrating-httpclientinmemorywebapimodule-forrootinmemorydataservi
+
